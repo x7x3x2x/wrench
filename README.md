@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://user-images.githubusercontent.com/86132648/131270867-b5620447-cfa6-41f7-b8ce-d1570221a046.png" width="150px"><br>
-    wrench - A SHA-1 hash-cracker written in Golang.
+    wrench - An easy-to-use SHA-1 hash-cracker.
 </h1>
 <p align="center">
 	Wrench is an SHA-1 hash-cracker that relies on wordlists for comparing hashes, and cracking them. Before Wrench starts reading the given wordlist, it checks to
