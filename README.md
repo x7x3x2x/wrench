@@ -25,6 +25,9 @@ cd wrench
 go run wrench.go
 ```
 
+## Screenshots
+![Screenshot_2021-08-29-08-48-55_1174x265](https://user-images.githubusercontent.com/86132648/131271314-5632614c-fffc-4527-b490-85986d9f35b9.png)
+
 ## Credits
 ```
 https://github.com/0x1CA3
