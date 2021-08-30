@@ -11,3 +11,23 @@
 	<a href="https://deno.land" target="_blank">
     	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
 </p>
+
+## Installation & Setup
+```
+git clone https://github.com/0x1CA3/wrench.git
+cd wrench/bin
+./wrench <hash> <wordlist.txt>
+
+OR
+	
+git clone https://github.com/0x1CA3/wrench.git
+cd wrench
+go run wrench.go
+```
+
+## Credits
+```
+https://github.com/0x1CA3
+```
+### Contributions 🎉
+###### All contributions are accepted, simply open an Issue / Pull request.
